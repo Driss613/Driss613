@@ -1,6 +1,6 @@
 ## 🎓 42 Stats
 
-[![Driss613's 42 stats](https://badge.mediaplus.ma/darkblue/drabarza)](https://github.com/oakoudad/badge42)
+[![Driss613's 42 stats](https://badge.mediaplus.ma/levi/drabarza)](https://github.com/oakoudad/badge42)
 
 ## 📊 GitHub Stats
 
