@@ -7,8 +7,7 @@
 
 ## 🎓 42 Stats
 
-[![Driss613's 42 stats](https://badge.mediaplus.ma/greenbinary/drabarza)](https://github.com/oakoudad/badge42)
-[![Driss613's 42 stats](https://badge.mediaplus.ma/greenbinary/drabarza?1337Badge=off&UM6P=off)]
+![Driss613's 42 stats](https://badge.mediaplus.ma/greenbinary/drabarza?1337Badge=off&UM6P=off)
 
 ## 📊 GitHub Stats
 
