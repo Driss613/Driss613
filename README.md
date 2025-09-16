@@ -17,6 +17,7 @@
 
 ## 🔧 Technologies & Outils
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 
 ## 🏆 GitHub Trophies
